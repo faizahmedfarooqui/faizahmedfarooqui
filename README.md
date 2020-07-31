@@ -4,7 +4,6 @@ Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-faizahmedfarooqui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faizahmedfarooqui/)](https://www.linkedin.com/in/faizahmedfarooqui/)
 [![Medium Badge](https://img.shields.io/badge/-@faizahmedfarooqui-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@faizahmedfarooqui/)](https://medium.com/@faizahmedfarooqui)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=faizahmedfarooqui.faizahmedfarooqui)
 <!-- [![Gmail Badge](https://img.shields.io/badge/-faizz.af@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:faizz.af@gmail.com)](mailto:faiz.af@gmail.com) -->
 
 ## ⚡ Technologies
@@ -39,6 +38,7 @@ Find out more about me & feel free to connect with me here:
 ![Jira](https://img.shields.io/badge/-jira-black?style=flat-square&logo=jira)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=faizahmedfarooqui.faizahmedfarooqui)
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizahmedfarooqui&hide=TeX&layout=compact)
 -->
