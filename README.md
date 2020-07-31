@@ -1,4 +1,4 @@
-# <div align="center"> Hello there <img src="https://raw.githubusercontent.com/faizahmedfarooqui/faizahmedfarooqui/master/wave.gif" width="30px"> </div>
+### <div align="center"> Hello there <img src="https://raw.githubusercontent.com/faizahmedfarooqui/faizahmedfarooqui/master/wave.gif" width="30px"> </div>
 
 Find out more about me & feel free to connect with me here:
 
