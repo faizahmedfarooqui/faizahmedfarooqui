@@ -1,4 +1,4 @@
-### Hello there <img src="https://raw.githubusercontent.com/faizahmedfarooqui/faizahmedfarooqui/master/wave.gif" width="30px">
+### Hello there!
 
 Find out more about me & feel free to connect with me here:
 
