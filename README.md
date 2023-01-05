@@ -10,7 +10,7 @@ Find out more about me & feel free to connect with me here:
 
 ## ⚡ Technologies
 
-![Dapr](https://img.shields.io/badge/-Dapr-f8fcff?style=flat-square&logo=dapr)
+![Dapr](https://img.shields.io/badge/-Dapr-black?style=flat-square&logo=dapr)
 ![Hasura](https://img.shields.io/badge/-Hasura-f8fcff?style=flat-square&logo=hasura)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
