@@ -10,6 +10,7 @@ Find out more about me & feel free to connect with me here:
 
 ## ⚡ Technologies
 
+![Hasura](https://img.shields.io/badge/-Hasura-green?style=flat-square&logo=hasura)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
