@@ -5,7 +5,6 @@ Find out more about me & feel free to connect with me here:
 [![Personal Portfolio](https://img.shields.io/badge/www.-faizahmed.in-black)](https://faizahmed.in)
 [![Hashnode Badge](https://img.shields.io/badge/-blog.faizahmed.in-darkblue?style=flat-square&logo=Hashnode&logoColor=white&link=http://blog.faizahmed.in/)](https://blog.faizahmed.in/)
 [![Linkedin Badge](https://img.shields.io/badge/-faizahmedfarooqui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faizahmedfarooqui/)](https://www.linkedin.com/in/faizahmedfarooqui/)
-[![Notion Badge](https://img.shields.io/badge/-faizahmed.notion.site-white?style=flat-square&logo=Notion&logoColor=black&link=https://faizahmed.notion.site/Hey-I-m-Faiz-A-Farooqui-1f271e964e8f485d989327e788d4aef7)](https://faizahmed.notion.site/Hey-I-m-Faiz-A-Farooqui-1f271e964e8f485d989327e788d4aef7)
 
 
 ## ⚡ Technologies
