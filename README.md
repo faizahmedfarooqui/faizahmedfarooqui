@@ -9,6 +9,9 @@ Find out more about me & feel free to connect with me here:
 
 ## ⚡ Technologies
 
+![OpenStack](https://img.shields.io/badge/-Openstack-orange?style=flat-square&logo=openstack)
+![MaaS](https://img.shields.io/badge/-MaaS-gray?style=flat-square&logo=maas)
+![Open vSwitch](https://img.shields.io/badge/-Open%20vSwitch-gray?style=flat-square&logo=ovs)
 ![Dapr](https://img.shields.io/badge/-Dapr-black?style=flat-square&logo=dapr)
 ![Hasura](https://img.shields.io/badge/-Hasura-f8fcff?style=flat-square&logo=hasura)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
