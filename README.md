@@ -52,7 +52,8 @@ Find out more about me & feel free to connect with me here:
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=faizahmedfarooqui.faizahmedfarooqui)
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=faizahmedfarooqui.faizahmedfarooqui)
+-->
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizahmedfarooqui&hide=TeX&layout=compact)
 -->
